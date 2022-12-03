@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Inicio Sesion</title>
+    <title>Inicio Sesión</title>
 
     <meta charset="UTF-8">
     <meta name="description" content="Descripció web">
