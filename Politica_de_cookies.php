@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Politica de cookies</title>
+    <title>Política de Cookies</title>
 
     <meta charset="UTF-8">
     <meta name="description" content="Descripció web">
@@ -25,7 +25,7 @@
     </header>
 
     <section class="container-xxl pt-4">
-        <h1 style="font-family: ArchivoBlack_Regular"><b>Politica de cookies</b></h1>
+        <h1 style="font-family: ArchivoBlack_Regular"><b>Política de Cookies</b></h1>
         <h4 style="font-family: ArchivoBlack_Regular"><b>¿QUÉ SON LAS COOKIES?</b></h4>
         <p class="fs-6">
             Una cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web. Las cookies permiten a una página web, entre otras cosas, almacenar y recuperar información sobre hábitos de navegación de un usuario o de su equipo y, dependiendo de la información que contengan y de la forma que utilice su equipo, pueden utilizarse para reconocer al usuario.

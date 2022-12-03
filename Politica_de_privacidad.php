@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Condiciones de uso y privacidad</title>
+    <title>Política de Privacidad</title>
 
     <meta charset="UTF-8">
     <meta name="description" content="Descripció web">
@@ -25,7 +25,7 @@
     </header>
 
     <section class="container-xxl pt-4">
-        <h1 style="font-family: ArchivoBlack_Regular"><b>Condiciones de uso y privacidad</b></h1>
+        <h1 style="font-family: ArchivoBlack_Regular"><b>Política de Privacidad</b></h1>
         <p class="fs-6"> 
             En URBAN FOOD nos preocupamos por la privacidad y la transparencia.<br>
             A continuación, le indicamos en detalle los tratamientos de datos personales que realizamos, así como toda la información relativa a los mismos.
