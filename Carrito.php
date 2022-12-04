@@ -59,8 +59,8 @@
             <div class="col-12 col-md-12">
                 <table class="table-borderless">
                     <tr>
-                        <th class="pb-3 fs-5 p-0" style="width: 50%"><i>Articulo</i></th>
-                        <th class="pb-3 fs-5 text-center" style="width: 30%"><i>Cantidad</i></th>
+                        <th class="pb-3 fs-5 p-0" style="width: 65%"><i>Articulo</i></th>
+                        <th class="pb-3 fs-5 text-center" style="width: 50%"><i>Cantidad</i></th>
                         <th class="pb-3 fs-5 text-center"><i>Precio</i></th>
                     </tr>
                     <?php
@@ -90,7 +90,7 @@
                         <?php $precioTotal = precioTotal::precioTotalPedido($_SESSION["compra"]);
                         echo $precioTotal;?> €  </b>
                         </td>
-                        <td class="pb-3 pt-3" style="text-align: right">
+                        <td class="pb-3 pt-3" style="text-align: center">
                             <form action="" method='post'>
                                 <input type="hidden" name="precioFinal" value="value=<?=$precioTotal?>">
                                 <button type="submit" class="btn button1 button2 mb-auto fs-5"><a class="nav-link" href="http://primerentornotoledano.com/CompraConfirmada.php">Finalizar pedido</a></button>

@@ -42,8 +42,8 @@
             <div class="col-12 col-md-12">
                 <table class="table-borderless">
                     <tr>
-                        <th class="pb-3 fs-5 p-0" style="width: 50%"><i>Articulo</i></th>
-                        <th class="pb-3 fs-5 text-center" style="width: 30%"><i>Cantidad</i></th>
+                        <th class="pb-3 fs-5 p-0" style="width: 65%"><i>Articulo</i></th>
+                        <th class="pb-3 fs-5 text-center" style="width: 50%"><i>Cantidad</i></th>
                         <th class="pb-3 fs-5 text-center"><i>Precio</i></th>
                         <th></th>
                     </tr>
@@ -58,7 +58,7 @@
                     <?php $pos++;
                     }?>
                     <tr>
-                        <td colspan=3 class="fs-5 p-5" style="text-align: right"><i><b>Total &nbsp;</b></i>
+                        <td colspan=3 class="fs-5 pt-3" style="text-align: right"><i><b>Total &nbsp;</b></i>
                         <b>
                         <?php $precioTotal = precioTotal::precioTotalPedido($_SESSION["compra"]);
                         echo $precioTotal;?> €  </b>
